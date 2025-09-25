@@ -1,4 +1,3 @@
-# tanveer-so-mat
 
 #include<stdio.h>
 #include "opfile11.c"
